@@ -5,7 +5,6 @@ This project is a **real-time digit recognition application** built using Python
 ## Features
 
 - **Real-Time Predictions**: Draw digits on a canvas, and the app will predict the digit and display the confidence score.
-- **Clear Interface**: The user interface includes a "Clear" button to reset the canvas and start over.
 - **Pre-trained Model**: Uses a TensorFlow model to classify digits drawn by the user.
 - **Standalone Executable**: Download and run the app without needing Python installed on your system.
 
