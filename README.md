@@ -11,7 +11,7 @@ This project is a **real-time digit recognition application** built using Python
 
 ## Download the Executable
 
-You can download the from the [Releases](https://github.com/EllE961/digit-recognizer-app/releases) section of this repository.
+You can download the from the [Releases](https://github.com/EllE961/Digit-Recognizer-Application/releases) section of this repository.
 
 ## Running from Source
 
