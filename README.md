@@ -22,3 +22,6 @@ If you'd like to run the application from the source code, follow the instructio
 ```bash
 git clone https://github.com/your-username/digit-recognizer-app.git
 cd digit-recognizer-app
+python app/app.py
+```
+Or Run app.py
